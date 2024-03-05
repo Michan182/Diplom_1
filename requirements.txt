@@ -1,0 +1,10 @@
+burger==1.2.9
+coverage==7.4.1
+enum34==1.1.10
+iniconfig==2.0.0
+mock==5.1.0
+packaging==23.2
+pluggy==1.4.0
+pytest==8.0.0
+pytest-cov==4.1.0
+wslwinreg==1.0.7
